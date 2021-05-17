@@ -1,2 +1,3 @@
-# hello world!
-this is my readme. Hola!
+# Hello World
+
+This is a readme for my first project.
